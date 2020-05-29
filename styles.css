@@ -1,0 +1,13 @@
+.mayor{
+	background-color: green;
+}
+.menor{
+	background-color: red;
+}
+table{
+	border: solid 7px #AB3838;
+	font-family: arial;
+	padding: 20px;
+	box-shadow: 4px 4px 4px;
+
+}
